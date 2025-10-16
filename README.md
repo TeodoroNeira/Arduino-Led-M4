@@ -18,7 +18,7 @@ void loop() {
 
 ## Vídeo demonstrativo:
 
-[Vídeo - Interno](assets/led_interno.mp4)
+[Vídeo - Interno](https://youtu.be/z2kFhh4bPjw)
 
 ## Representação no Tinkercad:
 
@@ -47,7 +47,7 @@ void loop() {
 
 ## Vídeo demonstrativo:
 
-[Vídeo - Externo](assets/led_externo.mp4)
+[Vídeo - Externo](https://youtu.be/34McCdZ3d4o)
 
 ## Representação no Tinkercad:
 
